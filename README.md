@@ -38,7 +38,7 @@ Analog-Clock/
 
 ## 📸 Screenshot Preview
 
-![Analog Clock Screenshot](Analog.png)
+![Analog Clock Screenshot](Preview.jpeg)
 
 ---
 
