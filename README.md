@@ -38,7 +38,7 @@ Analog-Clock/
 
 ## 📸 Screenshot Preview
 
-![Analog Clock Screenshot](Preview.png)
+![Analog Clock Screenshot](Analog.png)
 
 ---
 
@@ -65,11 +65,7 @@ Analog-Clock/
 * Add timezone support
 * Add ticking sound 🔊
 
----
-
-## 👨‍💻 Author
-
-Your Name
+--
 
 ---
 
